@@ -57,6 +57,7 @@ const styles = StyleSheet.create({
   actionbtnText:{
     fontSize: 24,
     color:"#FFFFFF",
+    
     textTransform:"uppercase"
   }
 });
